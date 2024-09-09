@@ -14,8 +14,3 @@
 <p>esto para aprender a progamar paginas web</p>
 <p>te amo att. cafecito</p>
 
-<video width="640" height="360" controls>
-    <source src="te amo.mp4" type="video/mp4">
-    Tu navegador no soporta el elemento de video.
-  </video>
-  
